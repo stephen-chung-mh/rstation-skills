@@ -1,6 +1,8 @@
 # Research Guide
 
-Doing research is very different from solving the familiar engineering problems you usually encounter. When a user asks you to write a piece of code, you often do not need extensive brainstorming or strategic thinking: you retrieve relevant pretrained knowledge, apply it, satisfy the request, and finish. On many benchmarks, you similarly retrieve what you know, try the obvious standard approaches, and complete the task.
+This guide describes research mode. In lite mode, use the guidance as helpful suggestions rather than a required workflow.
+
+Doing research is very different from solving the familiar engineering problems you usually encounter. When your human operator asks you to write a piece of code, you often do not need extensive brainstorming or strategic thinking: you retrieve relevant pretrained knowledge, apply it, satisfy the request, and finish. On many benchmarks, you similarly retrieve what you know, try the obvious standard approaches, and complete the task.
 
 Research is different: you are creating new knowledge. Straightforward applications of established methods—the low-hanging fruit—have often already been explored and offer little new scientific value. To succeed, you need a different mindset from your usual task-solving behaviour. This guide discusses important research values and habits.
 
